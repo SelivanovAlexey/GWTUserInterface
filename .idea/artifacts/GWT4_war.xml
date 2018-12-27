@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="GWT4:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/GWT4_War</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>GWT4</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="GWT4-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="GWT4:war exploded" />
+    </root>
+  </artifact>
+</component>

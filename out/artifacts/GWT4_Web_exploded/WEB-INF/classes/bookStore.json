@@ -1,0 +1,147 @@
+[
+  {
+  "id": "245",
+  "author": "Pushkin",
+  "bookName": "Captain's daughter",
+  "pageCount": 500,
+  "publishingYear": 1821,
+  "addingDate": "26 Dec 2018"
+  },
+  {
+    "id": "40",
+    "author": "Bulgakov",
+    "bookName": "The Master and Margarita",
+    "pageCount": 397,
+    "publishingYear": 1967,
+    "addingDate": "26 Dec 2018"
+  },
+  {
+    "id": "41",
+    "author": "Turgenev",
+    "bookName": "Fathers and Sons",
+    "pageCount": 191,
+    "publishingYear": 1862,
+    "addingDate": "26 Dec 2018"
+  },
+  {
+    "id": "42",
+    "author": "Gorkiy",
+    "bookName": "The childhood",
+    "pageCount": 223,
+    "publishingYear": 1914,
+    "addingDate": "26 Dec 2018"
+  },
+  {
+    "id": "43",
+    "author": "Gorkiy",
+    "bookName": "Mother",
+    "pageCount": 319,
+    "publishingYear": 1906,
+    "addingDate": "26 Dec 2018"
+  },
+  {
+    "id": "44",
+    "author": "Akimushkin",
+    "bookName": "The animal world",
+    "pageCount": 238,
+    "publishingYear": 1975,
+    "addingDate": "26 Dec 2018"
+  },
+
+  {
+    "id": "45",
+    "author": "Rybakov",
+    "bookName": "The dirk",
+    "pageCount": 190,
+    "publishingYear": 1948,
+    "addingDate": "26 Dec 2018"
+  },
+  {
+    "id": "35",
+    "author": "Hmelevskaya",
+    "bookName": "All is red",
+    "pageCount": 318,
+    "publishingYear": 1974,
+    "addingDate": "26 Dec 2018"
+  },
+  {
+    "id": "36",
+    "author": "Olkott",
+    "bookName": "Little Women",
+    "pageCount": 186,
+    "publishingYear": 1869,
+    "addingDate": "26 Dec 2018"
+  },
+  {
+    "id": "37",
+    "author": "Litvak",
+    "bookName": "Our good teenagers",
+    "pageCount": 221,
+    "publishingYear": 1998,
+    "addingDate": "26 Dec 2018"
+  },
+  {
+    "id": "38",
+    "author": "Conan Doyle",
+    "bookName": "The Hound of the Baskervilles",
+    "pageCount": 229,
+    "publishingYear": 1902,
+    "addingDate": "26 Dec 2018"
+  },
+  {
+    "id": "39",
+    "author": "Bradbury",
+    "bookName": "Fahrenheit 451",
+    "pageCount": 148,
+    "publishingYear": 1953,
+    "addingDate": "26 Dec 2018"
+  },
+  {
+    "id": "30",
+    "author": "Defo",
+    "bookName": "Robinson Crusoe",
+    "pageCount": 223,
+    "publishingYear": 1719,
+    "addingDate": "26 Dec 2018"
+  },
+  {
+    "id": "31",
+    "author": "Belyh, Panteleev",
+    "bookName": "Republic Shkid",
+    "pageCount": 379,
+    "publishingYear": 1927,
+    "addingDate": "26 Dec 2018"
+  },
+  {
+    "id": "32",
+    "author": "Tolkien",
+    "bookName": "The Silmarillion",
+    "pageCount": 365,
+    "publishingYear": 1977,
+    "addingDate": "26 Dec 2018"
+  },
+  {
+    "id": "33",
+    "author": "Akunin",
+    "bookName": "Altyn-Tolobas",
+    "pageCount": 412,
+    "publishingYear": 2001,
+    "addingDate": "26 Dec 2018"
+  },
+  {
+    "id": "34",
+    "author": "Akunin",
+    "bookName": "Turkish Gambit",
+    "pageCount": 221,
+    "publishingYear": 1998,
+    "addingDate": "26 Dec 2018"
+  },
+  {
+    "id": "25",
+    "author": "Pushkin",
+    "bookName": "Captain's daughter",
+    "pageCount": 500,
+    "publishingYear": 1821,
+    "addingDate": "26 Dec 2018"
+  }
+]
